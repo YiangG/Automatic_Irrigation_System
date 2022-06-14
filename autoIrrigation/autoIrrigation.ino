@@ -9,7 +9,7 @@ AdafruitIO_Feed *temperature = io.feed("temperature");
 
 int capread = 0;
 float tempC = 0;
-int thresh = 900;
+int thresh = 1000;
 
 void sendSensor(){
   capread = ss.touchRead(0);
