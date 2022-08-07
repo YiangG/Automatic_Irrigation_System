@@ -1,4 +1,4 @@
-# ESE516_Smart_Irrigation_System
+# Automatic_Irrigation_System
 
 ![This is an image](/autoIrrigation/overall.png)
 
